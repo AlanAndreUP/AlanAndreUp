@@ -1,4 +1,4 @@
-# Alan Andre Sánchez Hidalgo ![Profile Image](https://via.placeholder.com/100)
+# Alan Andre Sánchez Hidalgo 
 
 **Software Developer | Fullstack**  
 Tuxtla Gutiérrez, Chiapas, México  
