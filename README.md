@@ -1,70 +1,71 @@
-# Alan Andre Sánchez Hidalgo 
 
-**Software Developer | Fullstack**  
-Tuxtla Gutiérrez, Chiapas, México  
-[![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/alan-andre-s%C3%A1nchez-hidalgo-65123b253)  
+# **Alan Andre Sánchez Hidalgo**
 
-### Contact
-- **Email**: ashed605@gmail.com
+**Fullstack Software Developer | Tech Lead**
+Tuxtla Gutiérrez, Chiapas, Mexico
+[![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/alan-andre-s%C3%A1nchez-hidalgo-65123b253)
+
+### 📩 Contact
+
+* **Email**: [ashed605@gmail.com](mailto:ashed605@gmail.com)
 
 ---
 
-### **Extracto**
-Soy Alan Andre Sánchez Hidalgo, un ingeniero de software apasionado y dedicado con sede en Tuxtla Gutiérrez, Chiapas. Con un título en Ingeniería de Software por la Universidad Politécnica de Chiapas, y experiencia en programación desde la preparatoria, he desarrollado un conjunto diverso de habilidades y un entendimiento profundo de múltiples tecnologías.
+### **Summary**
+
+I am a **Software Engineer** passionate about building scalable and innovative technology solutions. With a degree in **Software Engineering from Universidad Politécnica de Chiapas** and over 3 years of hands-on experience, I have contributed to projects involving **fullstack development, legacy system modernization, software architecture design, and automation of digital processes**.
+
+I excel at **leading development teams, translating business requirements into technical solutions, and integrating modern technologies** such as **Next.js, React, Laravel, .NET, and AWS** to optimize workflows and improve user experience.
+
+---
 
 ### **Skills**
-- ![C#](https://cdn-icons-png.flaticon.com/24/6132/6132222.png) **C#**
-- ![TypeScript](https://cdn-icons-png.flaticon.com/24/919/919832.png) **TypeScript**
-- ![JavaScript](https://cdn-icons-png.flaticon.com/24/919/919828.png) **JavaScript**
-- ![Java](https://cdn-icons-png.flaticon.com/24/226/226777.png) **Java**
-- ![PHP](https://cdn-icons-png.flaticon.com/24/919/919830.png) **PHP**
-- ![Python](https://cdn-icons-png.flaticon.com/24/5968/5968350.png) **Python**
-- ![React](https://cdn-icons-png.flaticon.com/24/919/919851.png) **React**
-- ![Next.js](https://cdn-icons-png.flaticon.com/24/919/919847.png) **Next.js**
-- ![Laravel](https://cdn-icons-png.flaticon.com/24/919/919833.png) **Laravel**
-- ![SQL](https://cdn-icons-png.flaticon.com/24/732/732233.png) **SQL Server**
-- ![MySQL](https://cdn-icons-png.flaticon.com/24/919/919836.png) **MySQL**
-- ![MongoDB](https://cdn-icons-png.flaticon.com/24/919/919838.png) **MongoDB**
-- ![Tailwind CSS](https://cdn-icons-png.flaticon.com/24/5968/5968674.png) **Tailwind CSS**
+
+* ![C#](https://cdn-icons-png.flaticon.com/24/6132/6132222.png) **C#**
+* ![TypeScript](https://cdn-icons-png.flaticon.com/24/919/919832.png) **TypeScript**
+* ![JavaScript](https://cdn-icons-png.flaticon.com/24/919/919828.png) **JavaScript**
+* ![Java](https://cdn-icons-png.flaticon.com/24/226/226777.png) **Java**
+* ![PHP](https://cdn-icons-png.flaticon.com/24/919/919830.png) **PHP**
+* ![Python](https://cdn-icons-png.flaticon.com/24/5968/5968350.png) **Python**
+* ![React](https://cdn-icons-png.flaticon.com/24/919/919851.png) **React**
+* ![Next.js](https://cdn-icons-png.flaticon.com/24/919/919847.png) **Next.js**
+* ![Laravel](https://cdn-icons-png.flaticon.com/24/919/919833.png) **Laravel**
+* ![SQL](https://cdn-icons-png.flaticon.com/24/732/732233.png) **SQL Server**
+* ![MySQL](https://cdn-icons-png.flaticon.com/24/919/919836.png) **MySQL**
+* ![MongoDB](https://cdn-icons-png.flaticon.com/24/919/919838.png) **MongoDB**
+* ![Tailwind CSS](https://cdn-icons-png.flaticon.com/24/5968/5968674.png) **Tailwind CSS**
 
 ---
 
 ### **Certifications**
-- AWS Academy Graduate - AWS Academy Cloud Foundations
-- Aspectos básicos del diseño de la experiencia del usuario
-- Llevar a cabo investigaciones en UX
-- Curso Profesional de JAVA
+
+* AWS Academy Graduate – AWS Academy Cloud Foundations
+* Fundamentals of User Experience Design
+* Conducting UX Research
+* Professional Java Course
 
 ---
 
-### **Experiencia**
+### **Experience**
 
-- **Tech Lead** @ Agora Partnerships  
-  *Julio 2024 - Presente*  
-  Nueva York, EE.UU.
-  
-- **Full-stack Developer Semi-Senior** @ Agora Partnerships  
-  *Mayo 2024 - Julio 2024*  
-  Nueva York, EE.UU.
+* **Tech Lead** @ Agora Partnerships
+  *Jul 2024 – Present* | New York, USA
 
-- **Ingeniero de software** @ Viaro Networks Inc.  
-  *Julio 2023 - Febrero 2024*  
-  Delaware, EE.UU.
+* **Fullstack Developer (Semi-Senior)** @ Agora Partnerships
+  *May 2024 – Jul 2024* | New York, USA
 
-- **Backend Developer** @ IGRTEC  
-  *Marzo 2023 - Junio 2023*  
-  Querétaro, México
+* **Software Engineer** @ Viaro Networks Inc.
+  *Jul 2023 – Feb 2024* | Delaware, USA
 
-- **Fullstack Developer** @ Flexor Technologies  
-  *Julio 2022 - Marzo 2023*  
-  Guadalajara, Jalisco, México
+* **Backend Developer** @ IGRTEC
+  *Mar 2023 – Jun 2023* | Querétaro, Mexico
+
+* **Fullstack Developer** @ Flexor Technologies
+  *Jul 2022 – Mar 2023* | Guadalajara, Mexico
 
 ---
 
-### **Educación**
-- **Universidad Politécnica de Chiapas**  
-  Ingeniería en Software, 2022
+### **Education**
 
-- **BYU-Pathway Worldwide**
-
----
+* **Universidad Politécnica de Chiapas** – B.S. in Software Engineering, 2022
+* **BYU-Pathway Worldwide**
